@@ -1,5 +1,5 @@
 // import './regenerator-runtime/runtime';
-import {axios} from './node_modules/axios';
+import {axios} from '/node_modules/axios';
 // const rt = require('regenerator-runtime/runtime');
 // const axios = require('axios');
 const BASE_URL = 'https://shrouded-retreat-23800.herokuapp.com';
