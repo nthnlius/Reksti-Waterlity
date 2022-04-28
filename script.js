@@ -1,7 +1,7 @@
-// import 'regenerator-runtime/runtime';
-// import axios from 'axios';
-const rt = require('regenerator-runtime/runtime');
-const axios = require('axios');
+import './regenerator-runtime/runtime';
+import axios from './axios';
+// const rt = require('regenerator-runtime/runtime');
+// const axios = require('axios');
 const BASE_URL = 'https://shrouded-retreat-23800.herokuapp.com';
 
 const getkelayakanminum = async () => {
