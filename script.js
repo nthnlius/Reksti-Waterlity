@@ -1,5 +1,4 @@
 // import './regenerator-runtime/runtime';
-import {axios} from 'https://raw.githubusercontent.com/nthnlius/Reksti-Waterlity/main/node_modules/axios/lib/axios.js';
 // const rt = require('regenerator-runtime/runtime');
 // const axios = require('axios');
 const BASE_URL = 'https://shrouded-retreat-23800.herokuapp.com';
